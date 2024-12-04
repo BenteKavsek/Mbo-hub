@@ -6,3 +6,9 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+@import 'styling';
+
+body {
+    background-color: grey;
+}
