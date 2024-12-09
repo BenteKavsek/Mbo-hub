@@ -7,8 +7,9 @@ export default defineConfig({
         react(), // Ensure React is handled
         laravel({
             input: [
-                'resources/js/app.jsx',  // Changed to .jsx
                 'resources/sass/app.scss',
+                'resources/js/app.js',
+                'resources/sass/styling.scss',
             ],
             refresh: true,
         }),
