@@ -10,7 +10,6 @@
 
 <body>
     <h1>Test</h1>
-    sudo chmod -R 775 storage bootstrap/cache
 
     <div id="app"></div>
 </body>
